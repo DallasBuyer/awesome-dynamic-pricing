@@ -1,4 +1,4 @@
-# Awesome-Intelligent-Pricing
+# awesome-intelligent-pricing
 
 Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operation research, computer science and artificial intelligence.
 
