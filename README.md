@@ -46,7 +46,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 4. Dynamic Pricing for Reusable Resources in Competitive Market With Stochastic Demand, AAAI, 2018.
 5. The Competitive Effects of Variance-based Pricing, IJCAI, 2020.
 
-#### Inventory Management
+#### Operational Research
 1. Data-Driven Inventory Management and Dynamic Pricing Competition on Online Marketplaces, IJCAI, 2018.
 2. Clearance Pricing Optimization for a Fast-Fashion Retailer, Operations Research, 2012.
 
@@ -84,10 +84,11 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 ### Application Perspective
 #### Retail
-1. vAnomaly Detection for an E-commerce Pricing System, Walmart Labs, KDD, 2019.
+1. Anomaly Detection for an E-commerce Pricing System, Walmart Labs, KDD, 2019.
 2. Improving Lives of Indebted Farmers Using Deep Learning: Predicting Agricultural Produce Prices Using Convolutional Neural Networks. Wenzhou Kean University and Pennsylvania State University. AAAI, 2020.
 3. Price-aware Recommendation with Graph Convolutional Networks, ICDE, 2020.
-
+4. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
+5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
 
 #### Transportation
 1. Pay Your Trip for Traffic Congestion- Dynamic Pricing in Traffic-Aware Road Networks, AAAI, 2020.
