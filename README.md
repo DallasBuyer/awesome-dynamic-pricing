@@ -55,7 +55,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 1. Data-Driven Inventory Management and Dynamic Pricing Competition on Online Marketplaces, IJCAI, 2018.
 2. Clearance Pricing Optimization for a Fast-Fashion Retailer, Operations Research, 2012.
 
-#### Demand Forcasting/Prediction
+#### Demand Learning/Forcasting/Prediction
 1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
 2. Dynamic Pricing with Bayesian Demand Learning and Reference Price Effect, European Journal of Operational Research, 2019.
 3. Context-Based Dynamic Pricing with Online Clustering, University of Michigan and Alibaba, Management Science, 2019. (Reviewing).
@@ -65,6 +65,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 7. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017.
 8. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
 9. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
+10. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
 
 #### Reinforcement Learning
 ##### MAB
