@@ -115,6 +115,6 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 * Contextual Reserve Price Optimization in Auctions via Mixed Integer Programming, NIPS, 2020.
 
 
-### 其他
+### Others
 * No-regret Learning in Price Competitions under Consumer Reference Effects, MIT, NIPS, 2020.
 * Large-Scale Price Optimization via Network Flow, NEC Corporation, NIPS, 2016.
