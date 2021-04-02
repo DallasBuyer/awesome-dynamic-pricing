@@ -3,14 +3,19 @@
 Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operation research, computer science and artificial intelligence.
 
 # Journal List
+## Operations Research & Mangement Science
 1. Management Science
 2. Operations Research
-3. INFORMS Journal on Computing
-4. Manufacturing & Service Operations Management
-5. Journal of Operations Management
-6. Transportation Science
-7. Production and Operations Management
-8. Computers & Operations Research
+3. Mathematical Programming
+4. Journal of Operations Management
+5. Manufacturing & Service Operations Management
+6. Production and Operations Management
+7. Computers & Operations Research
+8. European Journal of Operational Research
+9. INFORMS Journal on Computing
+10. Transportation Science
+
+## Computer Science & Artificial Intelligence
 
 # Conference List
 1. AAAI
