@@ -94,6 +94,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 3. Price-aware Recommendation with Graph Convolutional Networks, ICDE, 2020.
 4. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
 5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
+6. Modeling Consumer Preferences and Price Sensitivities from Large-Scale Grocery Shopping Transaction Logs, WWW, 2017.
 
 #### Transportation
 1. Pay Your Trip for Traffic Congestion- Dynamic Pricing in Traffic-Aware Road Networks, AAAI, 2020.
@@ -109,13 +110,18 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 
 #### Internet Service[Ads, Cloud]
-1. Reserve Price Failure Rate Prediction with Header Bidding in Display Advertising, KDD, 2019
+1. Learning Resource Allocation and Pricing for Cloud Profit Maximization, AAAI, 2019.
+
 
 #### Auction
 1. Optimal Pricing in Repeated Posted-Price Auctions with Different Patience of the Seller and the Buyer, NIPS, 2019.
 2. Dynamic Incentive-Aware Learning: Robust Pricing in Contextual Auctions, NIPS, 2019.
-3. Learning Optimal Reserve Price against Non-myopic Bidders, NIPS, 2018.
-4. Contextual Reserve Price Optimization in Auctions via Mixed Integer Programming, NIPS, 2020.
+3. Reserve Price Failure Rate Prediction with Header Bidding in Display Advertising, KDD, 2019
+4. Learning Optimal Reserve Price against Non-myopic Bidders, NIPS, 2018.
+5. Contextual Reserve Price Optimization in Auctions via Mixed Integer Programming, NIPS, 2020.
+6. Horizon-Independent Optimal Pricing in Repeated Auctions with Truthful and Strategic Buyers, WWW, 2017.
+7. A Field Guide to Personalized Reserve Prices, WWW, 2016.
+8. Objective Variables for Probabilistic Revenue Maximization in Second-Price Auctions with Reserve, WWW, 2016.
 
 ### Hotel
 1. Customized Regression Model for Airbnb Dynamic Pricing, KDD, 2018.
