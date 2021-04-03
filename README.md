@@ -53,6 +53,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 #### Operational Research
 1. Data-Driven Inventory Management and Dynamic Pricing Competition on Online Marketplaces, IJCAI, 2018.
 2. Clearance Pricing Optimization for a Fast-Fashion Retailer, Operations Research, 2012.
+3. Dynamic Pricing and Lot Sizing for a Newsvendor Problem with Supplier Selection, Quantity Discounts, and Limited Supply Capacity, Computers & Industrial Engineering, 2021.
 
 #### Demand Learning/Forcasting/Prediction
 1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
@@ -95,6 +96,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 4. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
 5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
 6. Modeling Consumer Preferences and Price Sensitivities from Large-Scale Grocery Shopping Transaction Logs, WWW, 2017.
+7. Latent Variable Copula Inference for Bundle Pricing from Retail Transaction Data, ICML, 2014.
 
 #### Transportation
 1. Pay Your Trip for Traffic Congestion- Dynamic Pricing in Traffic-Aware Road Networks, AAAI, 2020.
@@ -109,8 +111,11 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. Approximately Stable Pricing for Coordinated Purchasing of Electricity, University of Toronto, IJCAI, 2015.
 
 
-#### Internet Service[Ads, Cloud]
+#### Internet Service[Ads, Cloud, Finance]
 1. Learning Resource Allocation and Pricing for Cloud Profit Maximization, AAAI, 2019.
+2. Price Forecast with High-Frequency Finance Data: An Autoregressive Recurrent Neural Network Model with Technical Indicators, CIKM, 2020.
+3. Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News, CIKM, 2018.
+4. Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction, CIKM, 2018.
 
 
 #### Auction
@@ -122,6 +127,8 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 6. Horizon-Independent Optimal Pricing in Repeated Auctions with Truthful and Strategic Buyers, WWW, 2017.
 7. A Field Guide to Personalized Reserve Prices, WWW, 2016.
 8. Objective Variables for Probabilistic Revenue Maximization in Second-Price Auctions with Reserve, WWW, 2016.
+9. Bid Shading in The Brave New World of First-Price Auctions, CIKM, 2020.
+10. Weakly Consistent Optimal Pricing Algorithms in Repeated Posted-Price Auctions with Strategic Buyer, ICML, 2018.
 
 ### Hotel
 1. Customized Regression Model for Airbnb Dynamic Pricing, KDD, 2018.
