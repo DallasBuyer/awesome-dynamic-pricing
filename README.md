@@ -2,6 +2,9 @@
 
 Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operation research, computer science and artificial intelligence.
 
+# Institution List
+1. INFORMS, The Institute for Operations Research and the Management Sciences. [INFORMS Journals](https://www.informs.org/Publications/INFORMS-Journals)
+
 # Journal and Conference List
 
 ## Operations Research & Mangement Science
