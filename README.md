@@ -1,4 +1,4 @@
-# awesome-intelligent-pricing
+# awesome-intelligent-pricing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operation research, computer science and artificial intelligence.
 
