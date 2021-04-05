@@ -4,8 +4,8 @@ Awesome stuff about intelligent pricing(dynamic pricing/algorithmic pricing) in 
 
 # Table of Contents
 
-- [Institution List](#Institution List)
-- [Journal and Conference List](#Journal and Conference List)
+- [Institution List](#institution List)
+- [Journal and Conference List](# Journal and Conference List)
 - [Book List](#Book List)
 
 
