@@ -18,6 +18,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 8. European Journal of Operational Research
 9. INFORMS Journal on Computing
 10. Transportation Science
+11. Marketing Science
 
 ## Computer Science & Artificial Intelligence
 1. AAAI
@@ -91,6 +92,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 11. Correlated Bandits for Dynamic Pricing via the ARC algorithm, arXiv, 2021.
 12. Logarithmic Regret in Feature-based Dynamic Pricing, arXiv, 2021.
 13. Feature-Based Dynamic Pricing, Management Science, 2020.
+14. Dynamic Online Pricing with Incomplete Information Using Multiarmed Bandit Experiments, Marketing Science, 2019.
 
 ##### DRL
 1. Dynamic Pricing on E-commerce Platform with Deep Reinforcement  Learning, Alibaba, 2019.
@@ -150,3 +152,4 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 ### Others
 1. No-regret Learning in Price Competitions under Consumer Reference Effects, MIT, NIPS, 2020.
 2. Large-Scale Price Optimization via Network Flow, NEC Corporation, NIPS, 2016.
+3. Skimming or Penetration? Strategic Dynamic Pricing for New Products, Marketing Science, 2015.
