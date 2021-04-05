@@ -54,6 +54,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 1. Data-Driven Inventory Management and Dynamic Pricing Competition on Online Marketplaces, IJCAI, 2018.
 2. Clearance Pricing Optimization for a Fast-Fashion Retailer, Operations Research, 2012.
 3. Dynamic Pricing and Lot Sizing for a Newsvendor Problem with Supplier Selection, Quantity Discounts, and Limited Supply Capacity, Computers & Industrial Engineering, 2021.
+4. Bundle Pricing and Inventory Decisions on Complementary Products, Operational Research, 2017.
 
 #### Demand Learning/Forcasting/Prediction
 1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
@@ -66,6 +67,11 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 8. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
 9. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
 10. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
+11. Dynamic Pricing and Learning under the Bass Model, arXiv, 2021. (**Good Survey**)
+12. A Simple Rule for Pricing with Limited Knowledge of Demand, Management Science, 2021.
+13. Discontinuous Demand Functions: Estimation and Pricing, Management Science, 2020.
+14. Efficient Algorithms for the Dynamic Pricing Problem with Reference Price Effect, Management Science, 2016.
+15. On the (Surprising) Sufficiency of Linear Models for Dynamic Pricing with Demand Learning, Management Science, 2015.
 
 #### Reinforcement Learning
 ##### MAB
@@ -79,6 +85,9 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 8. Stateful Posted Pricing with Vanishing Regret via Dynamic Deterministic Markov Decision Processes, NIPS, 2020.
 9. Contextual Pricing for Lipschitz Buyers, NIPS, 2018.
 10. Online Pricing with Strategic and Patient Buyer, MSR, NIPS, 2016.
+11. Correlated Bandits for Dynamic Pricing via the ARC algorithm, arXiv, 2021.
+12. Logarithmic Regret in Feature-based Dynamic Pricing, arXiv, 2021.
+13. Feature-Based Dynamic Pricing, Management Science, 2020.
 
 ##### DRL
 1. Dynamic Pricing on E-commerce Platform with Deep Reinforcement  Learning, Alibaba, 2019.
@@ -97,6 +106,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
 6. Modeling Consumer Preferences and Price Sensitivities from Large-Scale Grocery Shopping Transaction Logs, WWW, 2017.
 7. Latent Variable Copula Inference for Bundle Pricing from Retail Transaction Data, ICML, 2014.
+8. Competition-Based Dynamic Pricing in Online Retailing: A Methodology Validated with Field Experiments, Management Science, 2018.
 
 #### Transportation
 1. Pay Your Trip for Traffic Congestion- Dynamic Pricing in Traffic-Aware Road Networks, AAAI, 2020.
@@ -105,6 +115,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 4. Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices, IJCAI, 2019.
 5. Price-and-Time-Aware Dynamic Ridesharing, ICDE, 2018.
 6. InBEDE: Integrating Contextual Bandit with TD Learning for Joint Pricing and Dispatch of Ride-Hailing Platforms, ICDM, 2019.
+7. Your Uber Is Arriving: Managing On-Demand Workers Through Surge Pricing, Forecast Communication, and Worker Incentives, Management Science, 2019.
 
 #### Smart Gird
 1. Aggregate Demand-Based Real-Time Pricing Mechanism for the Smart Grid: A Game-Theoretic Analysis, IBM Research, IJCAI, 2015
