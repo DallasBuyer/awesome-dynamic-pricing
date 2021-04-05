@@ -1,11 +1,13 @@
 # awesome-intelligent-pricing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome stuff about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operations research, computer science and artificial intelligence.
+Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operations research, computer science and artificial intelligence.
 
 # Table of Contents
 
 - [Institution List](#institution-list)
+- [Scholar List](#scholar-list)
 - [Journal and Conference List](#journal-and-conference-list)
+- [Blog and Tutorial List](#blog-and-tutorial-list)
 - [Book List](#book-list)
 - [Paper List](#paper-list)
   - [Technology Perspective](#technology-perspective)
@@ -24,6 +26,8 @@ Awesome stuff about intelligent pricing(dynamic pricing/algorithmic pricing) in 
 
 # Institution List
 1. INFORMS, The Institute for Operations Research and the Management Sciences. [INFORMS Journals](https://www.informs.org/Publications/INFORMS-Journals)
+
+# Scholar List
 
 # Journal and Conference List
 
@@ -45,6 +49,9 @@ Awesome stuff about intelligent pricing(dynamic pricing/algorithmic pricing) in 
 2. IJCAI
 3. NIPS
 4. KDD
+
+# Blog and Tutorial List
+
 
 # Book List
 
