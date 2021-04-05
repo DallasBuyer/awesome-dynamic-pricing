@@ -5,8 +5,12 @@ Awesome stuff about intelligent pricing(dynamic pricing/algorithmic pricing) in 
 # Table of Contents
 
 - [Institution List](#institution-list)
-- [Journal and Conference List](# Journal and Conference List)
-- [Book List](#Book List)
+- [Journal and Conference List](#journal-and-conference-list)
+- [Book List](#book-list)
+- [Paper List](#paper-list)
+  - [Technology Perspective](#technology-perspective)
+    - [Game Theory](#game-theory)
+  - [Application Perspective](#application-perspective)
 
 
 # Institution List
