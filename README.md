@@ -10,7 +10,16 @@ Awesome stuff about intelligent pricing(dynamic pricing/algorithmic pricing) in 
 - [Paper List](#paper-list)
   - [Technology Perspective](#technology-perspective)
     - [Game Theory](#game-theory)
+    - [Operational Research](#operational-research)
+    - [Demand Learning/Forcasting/Prediction](#demand-learning/forcasting/prediction)
+    - [Reinforcement Learning](#reinforcement-learning)
   - [Application Perspective](#application-perspective)
+    - [Retail](#retail)
+    - [Transportation](#transportation)
+    - [Smart Gird](#smart-gird)
+    - [Internet Service](#internet-service)
+    - [Auction](#auction)
+    - [Hotel](#hotel)
 
 
 # Institution List
