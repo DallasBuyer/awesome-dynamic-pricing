@@ -69,6 +69,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. Modeling Elasticity: A Brief Survey of Price Elasticity of Demand Estimation Methods, Journal of Research in Marketing, 2019.
 3. An Overview of Pricing Models for Revenue Management, Manufacturing & Service Operations Management, 2003.
 4. Why Prices Need Algorithms, Stanford University, IJCAI, 2016.
+5. From Predictive to Prescriptive Analytics, Mangagement Science, 2019.
 
 # Paper List
 
