@@ -26,12 +26,15 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 # Institution List
 1. INFORMS, The Institute for Operations Research and the Management Sciences. [INFORMS Journals](https://www.informs.org/Publications/INFORMS-Journals)
+2. IFORS, The International Federation of Operational Research Societies.
+3. SIAM, Society for Industrial and Applied Mathematics.
 
 # Scholar List
 
 # Journal and Conference List
 
 ## Operations Research & Mangement Science
+### Journal
 1. Management Science
 2. Operations Research
 3. Mathematical Programming
@@ -45,6 +48,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 11. Marketing Science
 
 ## Computer Science & Artificial Intelligence
+### Conference
 1. AAAI
 2. IJCAI
 3. NIPS
