@@ -30,7 +30,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 3. SIAM, Society for Industrial and Applied Mathematics.
 
 # Scholar List
-1. Robert L. Phillips, Uber, Columbia University. [Link](https://en.wikipedia.org/wiki/Robert_L._Phillips)
+1. Robert L. Phillips, Uber, Columbia University. [WIKI](https://en.wikipedia.org/wiki/Robert_L._Phillips)
 
 # Journal and Conference List
 
@@ -60,7 +60,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 4. KDD, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
 
 # Blog and Tutorial List
-1. [Deep reinforcement learning for supply chain and price optimization](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/)
+1. Deep Reinforcement Learning for Supply Chain and Price Optimization, [LINK](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/)
 
 # Book List
 
