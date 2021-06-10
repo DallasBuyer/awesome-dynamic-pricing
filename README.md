@@ -1,29 +1,27 @@
-# 动态定价 awesome-dynamic-pricing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-关于智能定价(动态定价/算法定价)的所有资料：包括在管理学，运筹学，计算机和人工智能领域的期刊，会议，组织，学者，论文，研究方向等。
+# awesome-dynamic-pricing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operations research, computer science and artificial intelligence.
 
-# Table of Contents (目录)
+# Table of Contents
 
-- [Institution List](#institution-list) (机构组织)
-- [Scholar List](#scholar-list) (学者)
-- [Journal and Conference List](#journal-and-conference-list) (期刊和会议)
-- [Blog and Tutorial List](#blog-and-tutorial-list) (博客和教程)
-- [Book List](#book-list) (书籍)
-- [Paper List](#paper-list) (论文)
-  - [Technology Perspective](#technology-perspective) (技术角度分类)
-    - [Game Theory](#game-theory) (博弈论)
-    - [Operational Research](#operational-research) (运筹学)
-    - [Demand Learning](#demand-learning/forcasting/prediction) (需求学习)
-    - [Reinforcement Learning](#reinforcement-learning) (强化学习)
-  - [Application Perspective](#application-perspective) (应用角度分类)
-    - [Retail](#retail) (零售)
-    - [Transportation](#transportation) (交通运输)
-    - [Gird](#smart-gird) (智能电网)
-    - [Service](#internet-service) (服务)
-    - [Auction](#auction) (拍卖)
-    - [Hotel](#hotel) (旅馆)
+- [Institution List](#institution-list) 
+- [Scholar List](#scholar-list) 
+- [Journal and Conference List](#journal-and-conference-list)
+- [Blog and Tutorial List](#blog-and-tutorial-list) 
+- [Book List](#book-list)
+- [Paper List](#paper-list) 
+  - [Technology Perspective](#technology-perspective)
+    - [Game Theory](#game-theory)
+    - [Operational Research](#operational-research)
+    - [Demand Learning](#demand-learning/forcasting/prediction)
+    - [Reinforcement Learning](#reinforcement-learning)
+  - [Application Perspective](#application-perspective)
+    - [Retail](#retail)
+    - [Transportation](#transportation)
+    - [Gird](#smart-gird)
+    - [Service](#internet-service)
+    - [Auction](#auction)
+    - [Hotel](#hotel)
 
 
 # Institution List
