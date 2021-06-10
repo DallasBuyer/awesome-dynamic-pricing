@@ -112,6 +112,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 13. Discontinuous Demand Functions: Estimation and Pricing, Management Science, 2020.
 14. Efficient Algorithms for the Dynamic Pricing Problem with Reference Price Effect, Management Science, 2016.
 15. On the (Surprising) Sufficiency of Linear Models for Dynamic Pricing with Demand Learning, Management Science, 2015.
+16. Demand Models for the Static Retail Price Optimization Problem – A Revenue Management Perspective, SCOR, 2014.
 
 ### Reinforcement Learning
 #### MAB
