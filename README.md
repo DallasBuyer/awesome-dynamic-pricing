@@ -1,6 +1,7 @@
 # 动态定价 awesome-dynamic-pricing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 关于智能定价(动态定价/算法定价)的所有资料：包括在管理学，运筹学，计算机和人工智能领域的期刊，会议，组织，学者，论文，研究方向等。
+
 Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the fields of management science, operations research, computer science and artificial intelligence.
 
 # Table of Contents (目录)
