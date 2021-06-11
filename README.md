@@ -13,7 +13,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
   - [Technology Perspective](#technology-perspective)
     - [Game Theory](#game-theory)
     - [Operational Research](#operational-research)
-    - [Demand Learning](#Demand Learning(Forcasting/Prediction))
+    - [Demand Learning](#Demand Learning)
     - [Reinforcement Learning](#reinforcement-learning)
   - [Application Perspective](#application-perspective)
     - [Retail](#retail)
@@ -95,24 +95,24 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. Clearance Pricing Optimization for a Fast-Fashion Retailer, Operations Research, 2012.
 3. Dynamic Pricing and Lot Sizing for a Newsvendor Problem with Supplier Selection, Quantity Discounts, and Limited Supply Capacity, Computers & Industrial Engineering, 2021.
 4. Bundle Pricing and Inventory Decisions on Complementary Products, Operational Research, 2017.
+5. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017. [comments](#2017-KDD-OBP)
 
-### Demand Learning(Forcasting/Prediction)
+### Demand Learning
 1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
 2. Dynamic Pricing with Bayesian Demand Learning and Reference Price Effect, European Journal of Operational Research, 2019.
 3. Context-Based Dynamic Pricing with Online Clustering, University of Michigan and Alibaba, Management Science, 2019. (Reviewing).
 4. Dynamic Pricing for Reusable Resources in Competitive Market With Stochastic Demand, AAAI, 2018.
 5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
 6. Deep Censored Learning of the Winning Price in the Real Time Bidding, KDD, 2018.
-7. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017.
-8. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
-9. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
-10. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
-11. Dynamic Pricing and Learning under the Bass Model, arXiv, 2021. (**Good Survey**)
-12. A Simple Rule for Pricing with Limited Knowledge of Demand, Management Science, 2021.
-13. Discontinuous Demand Functions: Estimation and Pricing, Management Science, 2020.
-14. Efficient Algorithms for the Dynamic Pricing Problem with Reference Price Effect, Management Science, 2016.
-15. On the (Surprising) Sufficiency of Linear Models for Dynamic Pricing with Demand Learning, Management Science, 2015.
-16. Demand Models for the Static Retail Price Optimization Problem – A Revenue Management Perspective, SCOR, 2014.
+7. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
+8. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
+9. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
+10. Dynamic Pricing and Learning under the Bass Model, arXiv, 2021. (**Good Survey**)
+11. A Simple Rule for Pricing with Limited Knowledge of Demand, Management Science, 2021.
+12. Discontinuous Demand Functions: Estimation and Pricing, Management Science, 2020.
+13. Efficient Algorithms for the Dynamic Pricing Problem with Reference Price Effect, Management Science, 2016.
+14. On the (Surprising) Sufficiency of Linear Models for Dynamic Pricing with Demand Learning, Management Science, 2015.
+15. Demand Models for the Static Retail Price Optimization Problem – A Revenue Management Perspective, SCOR, 2014.
 
 ### Reinforcement Learning
 #### MAB
@@ -190,3 +190,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 1. No-regret Learning in Price Competitions under Consumer Reference Effects, MIT, NIPS, 2020.
 2. Large-Scale Price Optimization via Network Flow, NEC Corporation, NIPS, 2016.
 3. Skimming or Penetration? Strategic Dynamic Pricing for New Products, Marketing Science, 2015.
+
+# Paper Comments
+## 2017-KDD-OBP: 
+    The prescriptive price optimization consists of prediction modeling and price optimization. To reduce the exponential computation complexity, the paper formulize the price optimization problem to the form the binary quatratic programming (BQP), and then relax the BQP to the form of mixed integer linear programming (MILP) and semidefinite programming (SDP).
