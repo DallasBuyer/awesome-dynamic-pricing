@@ -193,4 +193,4 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 # Paper Comments
 ## 2017-KDD-OBP: 
-  \color{#F0F8FF}{*Optimization Beyond Prediction: Prescriptive Price Optimization*}: The prescriptive price optimization consists of prediction modeling and price optimization. To reduce the exponential computation complexity, the paper formulize the price optimization problem to the form the binary quatratic programming (BQP), and then relax the BQP to the form of mixed integer linear programming (MILP) and semidefinite programming (SDP).
+  $\color{#F0F8FF}{*Optimization Beyond Prediction: Prescriptive Price Optimization*}$: The prescriptive price optimization consists of prediction modeling and price optimization. To reduce the exponential computation complexity, the paper formulize the price optimization problem to the form the binary quatratic programming (BQP), and then relax the BQP to the form of mixed integer linear programming (MILP) and semidefinite programming (SDP).
