@@ -13,7 +13,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
   - [Technology Perspective](#technology-perspective)
     - [Game Theory](#game-theory)
     - [Operational Research](#operational-research)
-    - [Demand Learning](#demand-learning/forcasting/prediction)
+    - [Demand Learning](#Demand Learning(Forcasting/Prediction))
     - [Reinforcement Learning](#reinforcement-learning)
   - [Application Perspective](#application-perspective)
     - [Retail](#retail)
@@ -96,7 +96,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 3. Dynamic Pricing and Lot Sizing for a Newsvendor Problem with Supplier Selection, Quantity Discounts, and Limited Supply Capacity, Computers & Industrial Engineering, 2021.
 4. Bundle Pricing and Inventory Decisions on Complementary Products, Operational Research, 2017.
 
-### Demand Learning/Forcasting/Prediction
+### Demand Learning(Forcasting/Prediction)
 1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
 2. Dynamic Pricing with Bayesian Demand Learning and Reference Price Effect, European Journal of Operational Research, 2019.
 3. Context-Based Dynamic Pricing with Online Clustering, University of Michigan and Alibaba, Management Science, 2019. (Reviewing).
