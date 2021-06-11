@@ -22,6 +22,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
     - [Service](#internet-service)
     - [Auction](#auction)
     - [Hotel](#hotel)
+- [Paper Comments](# paper-comments)
 
 
 # Institution List
