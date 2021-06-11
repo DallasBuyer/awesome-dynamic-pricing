@@ -104,6 +104,8 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
 6. Deep Censored Learning of the Winning Price in the Real Time Bidding, KDD, 2018.
 7. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017.
+   comments: the prescriptive price optimization consists of prediction modeling and price optimization. To reduce the exponential computation complexity, the paper formulize the price optimization problem to the form the binary quatratic programming (BQP), and then relax the BQP to the form of mixed integer linear programming (MILP) and semidefinite programming (SDP).
+
 8. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
 9. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
 10. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
