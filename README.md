@@ -13,7 +13,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
   - [Technology Perspective](#technology-perspective)
     - [Game Theory](#game-theory)
     - [Operational Research](#operational-research)
-    - [Demand Learning](#Demand Learning)
+    - [Demand Learning](#demand-learning)
     - [Reinforcement Learning](#reinforcement-learning)
   - [Application Perspective](#application-perspective)
     - [Retail](#retail)
@@ -95,7 +95,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. Clearance Pricing Optimization for a Fast-Fashion Retailer, Operations Research, 2012.
 3. Dynamic Pricing and Lot Sizing for a Newsvendor Problem with Supplier Selection, Quantity Discounts, and Limited Supply Capacity, Computers & Industrial Engineering, 2021.
 4. Bundle Pricing and Inventory Decisions on Complementary Products, Operational Research, 2017.
-5. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017. [comments](#2017-KDD-OBP)
+5. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017. [Comments](#2017-KDD-OBP)
 
 ### Demand Learning
 1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
@@ -193,4 +193,4 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 # Paper Comments
 ## 2017-KDD-OBP: 
-  *Optimization Beyond Prediction: Prescriptive Price Optimization*: The prescriptive price optimization consists of prediction modeling and price optimization. To reduce the exponential computation complexity, the paper formulize the price optimization problem to the form the binary quatratic programming (BQP), and then relax the BQP to the form of mixed integer linear programming (MILP) and semidefinite programming (SDP).
+  \color{#F0F8FF}{*Optimization Beyond Prediction: Prescriptive Price Optimization*}: The prescriptive price optimization consists of prediction modeling and price optimization. To reduce the exponential computation complexity, the paper formulize the price optimization problem to the form the binary quatratic programming (BQP), and then relax the BQP to the form of mixed integer linear programming (MILP) and semidefinite programming (SDP).
