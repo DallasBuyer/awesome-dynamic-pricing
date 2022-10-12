@@ -186,6 +186,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 ### Hotel
 1. Customized Regression Model for Airbnb Dynamic Pricing, KDD, 2018.
+2. Modeling Price Elasticity for Occupancy Prediction in Hotel Dynamic Pricing, Alibaba, 2022.
 
 ### Others
 1. No-regret Learning in Price Competitions under Consumer Reference Effects, MIT, NIPS, 2020.
