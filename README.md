@@ -159,17 +159,19 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 5. Price-and-Time-Aware Dynamic Ridesharing, ICDE, 2018.
 6. InBEDE: Integrating Contextual Bandit with TD Learning for Joint Pricing and Dispatch of Ride-Hailing Platforms, ICDM, 2019.
 7. Your Uber Is Arriving: Managing On-Demand Workers Through Surge Pricing, Forecast Communication, and Worker Incentives, Management Science, 2019.
+8. Dynamic Car Dispatching and Pricing: Revenue and Fairness for Ridesharing Platforms, IJCAI, 2022.
 
 ### Smart Gird
 1. Aggregate Demand-Based Real-Time Pricing Mechanism for the Smart Grid: A Game-Theoretic Analysis, IBM Research, IJCAI, 2015
 2. Approximately Stable Pricing for Coordinated Purchasing of Electricity, University of Toronto, IJCAI, 2015.
 
 
-### Internet Service[Ads, Cloud, Finance]
+### Internet Service[Ads, Cloud, Finance, Search]
 1. Learning Resource Allocation and Pricing for Cloud Profit Maximization, AAAI, 2019.
 2. Price Forecast with High-Frequency Finance Data: An Autoregressive Recurrent Neural Network Model with Technical Indicators, CIKM, 2020.
 3. Hierarchical Complementary Attention Network for Predicting Stock Price Movements with News, CIKM, 2018.
 4. Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction, CIKM, 2018.
+5. Online Search With Best-Price and Query-Based Predictions, AAAI, 2022.
 
 
 ### Auction
