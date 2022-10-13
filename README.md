@@ -131,6 +131,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 12. Logarithmic Regret in Feature-based Dynamic Pricing, arXiv, 2021.
 13. Feature-Based Dynamic Pricing, Management Science, 2020.
 14. Dynamic Online Pricing with Incomplete Information Using Multiarmed Bandit Experiments, Marketing Science, 2019.
+15. Logarithmic Regret in Feature-based Dynamic Pricing, NIPS, 2022. (**Good Survey**)
 
 #### DRL
 1. Dynamic Pricing on E-commerce Platform with Deep Reinforcement  Learning, Alibaba, 2019.
