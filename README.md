@@ -32,6 +32,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 # Scholar List
 1. Robert L. Phillips, Uber, Columbia University. [WIKI](https://en.wikipedia.org/wiki/Robert_L._Phillips)
+2. N. Bora Keskin, Duke University. [WIKI](https://people.duke.edu/~nk145/)
 
 # Journal and Conference List
 
