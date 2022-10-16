@@ -149,6 +149,10 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 5. Online Revenue Maximization for Server Pricing, IJCAI, 2020.
 6. Dispatching Through Pricing: Modeling Ride-Sharing and Designing Dynamic Prices, IJCAI, 2019.
 
+#### Feature-based Models
+1. Dynamic Pricing in High-dimensions, The Journal of Machine Learning Research, 2019
+2. 
+
 ## Application Perspective
 ### Retail
 1. Anomaly Detection for an E-commerce Pricing System, Walmart Labs, KDD, 2019.
