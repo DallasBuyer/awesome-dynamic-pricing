@@ -135,11 +135,8 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 9. Contextual Pricing for Lipschitz Buyers, NIPS, 2018.
 10. Online Pricing with Strategic and Patient Buyer, MSR, NIPS, 2016.
 11. Correlated Bandits for Dynamic Pricing via the ARC algorithm, arXiv, 2021.
-12. Logarithmic Regret in Feature-based Dynamic Pricing, arXiv, 2021.
-13. Feature-Based Dynamic Pricing, Management Science, 2020.
-14. Dynamic Online Pricing with Incomplete Information Using Multiarmed Bandit Experiments, Marketing Science, 2019.
-15. Online Learning and Pricing with Reusable Resources: Linear Bandits with Sub-Exponential Rewards, ICML, 2022.
-16. Logarithmic Regret in Feature-based Dynamic Pricing, NIPS, 2022. (**Good Survey**)
+12. Dynamic Online Pricing with Incomplete Information Using Multiarmed Bandit Experiments, Marketing Science, 2019.
+13. Online Learning and Pricing with Reusable Resources: Linear Bandits with Sub-Exponential Rewards, ICML, 2022.
 
 #### DRL
 1. Dynamic Pricing on E-commerce Platform with Deep Reinforcement  Learning, Alibaba, 2019.
@@ -151,7 +148,9 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 #### Feature-based Models
 1. Dynamic Pricing in High-dimensions, The Journal of Machine Learning Research, 2019
-2. 
+2. Logarithmic Regret in Feature-based Dynamic Pricing, arXiv, 2021.
+3. Feature-Based Dynamic Pricing, Management Science, 2020.
+4. Logarithmic Regret in Feature-based Dynamic Pricing, NIPS, 2022. (**Good Survey**)
 
 ## Application Perspective
 ### Retail
