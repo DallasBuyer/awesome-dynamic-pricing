@@ -35,7 +35,8 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. N. Bora Keskin, Duke University. [WIKI](https://people.duke.edu/~nk145/)
 3. Yiwei Chen, MIT PhD, Temple University. [WIKI](https://www.fox.temple.edu/about-fox/directory/yiwei-chen/)
 4. Vivek F. Farias, MIT Sloan School of Management. [WIKI](https://mitsloan.mit.edu/faculty/directory/vivek-f-farias)
-5. Victor F. ARAMAN, Stanford PhD, American University of Beirut. [WIKI](https://pages.stern.nyu.edu/~varaman/)
+5. Victor F. ARAMAN, Stanford PhD, New York University, American University of Beirut. [WIKI](https://pages.stern.nyu.edu/~varaman/)
+6. René Caldentey, The University of Chicago, NYU, MIT Sloan School of Management. [WIKI](https://www.chicagobooth.edu/faculty/directory/c/rene-caldentey#)
 
 # Journal and Conference List
 
@@ -103,21 +104,22 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 5. Optimization Beyond Prediction: Prescriptive Price Optimization, NEC Corporation,  KDD, 2017. [Comments 2017-KDD-OBP](#2017-KDD-OBP)
 
 ### Demand Learning
-1. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
-2. Dynamic Pricing with Bayesian Demand Learning and Reference Price Effect, European Journal of Operational Research, 2019.
-3. Context-Based Dynamic Pricing with Online Clustering, University of Michigan and Alibaba, Management Science, 2019. (Reviewing).
-4. Dynamic Pricing for Reusable Resources in Competitive Market With Stochastic Demand, AAAI, 2018.
-5. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
-6. Deep Censored Learning of the Winning Price in the Real Time Bidding, KDD, 2018.
-7. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
-8. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
-9. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
-10. Dynamic Pricing and Learning under the Bass Model, arXiv, 2021. (**Good Survey**)
-11. A Simple Rule for Pricing with Limited Knowledge of Demand, Management Science, 2021.
-12. Discontinuous Demand Functions: Estimation and Pricing, Management Science, 2020.
-13. Efficient Algorithms for the Dynamic Pricing Problem with Reference Price Effect, Management Science, 2016.
-14. On the (Surprising) Sufficiency of Linear Models for Dynamic Pricing with Demand Learning, Management Science, 2015.
-15. Demand Models for the Static Retail Price Optimization Problem – A Revenue Management Perspective, SCOR, 2014.
+1. Dynamic Pricing for Nonperishable Products with Demand Learning, Operations Research, 2009.
+2. Analytics for an Online Retailer: Demand Forecasting and Price Optimization. INFORMS, 2015.
+3. Dynamic Pricing with Bayesian Demand Learning and Reference Price Effect, European Journal of Operational Research, 2019.
+4. Context-Based Dynamic Pricing with Online Clustering, University of Michigan and Alibaba, Management Science, 2019. (Reviewing).
+5. Dynamic Pricing for Reusable Resources in Competitive Market With Stochastic Demand, AAAI, 2018.
+6. Price Investment using Prescriptive Analytics and Optimization in Retail. Walmart Labs, KDD, 2020.
+7. Deep Censored Learning of the Winning Price in the Real Time Bidding, KDD, 2018.
+8. Robust Quadratic Programming for Price Optimization, NEC Corporation, IJCAI, 2017.
+9. Mixed **Causal** Structure Discovery with Application to Prescriptive Pricing, IJCAI, NEC Labs China, IJCAI, 2018.
+10. Coordinating Pricing and Inventory Replenishment with Nonparametric Demand Learning, Operations Research, 2019.
+11. Dynamic Pricing and Learning under the Bass Model, arXiv, 2021. (**Good Survey**)
+12. A Simple Rule for Pricing with Limited Knowledge of Demand, Management Science, 2021.
+13. Discontinuous Demand Functions: Estimation and Pricing, Management Science, 2020.
+14. Efficient Algorithms for the Dynamic Pricing Problem with Reference Price Effect, Management Science, 2016.
+15. On the (Surprising) Sufficiency of Linear Models for Dynamic Pricing with Demand Learning, Management Science, 2015.
+16. Demand Models for the Static Retail Price Optimization Problem – A Revenue Management Perspective, SCOR, 2014.
 
 ### Reinforcement Learning
 #### MAB
