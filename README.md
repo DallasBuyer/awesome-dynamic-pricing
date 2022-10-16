@@ -64,6 +64,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. IJCAI, International Joint Conference on Artificial Intelligence
 3. NeurIPS, Conference on Neural Information Processing Systems
 4. KDD, ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+5. ICML, International Conference on Machine Learning
 
 # Blog and Tutorial List
 1. Deep Reinforcement Learning for Supply Chain and Price Optimization, [LINK](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/)
