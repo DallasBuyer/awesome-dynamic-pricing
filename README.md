@@ -33,6 +33,8 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 # Scholar List
 1. Robert L. Phillips, Uber, Columbia University. [WIKI](https://en.wikipedia.org/wiki/Robert_L._Phillips)
 2. N. Bora Keskin, Duke University. [WIKI](https://people.duke.edu/~nk145/)
+3. Yiwei Chen, MIT PhD, Temple University. [WIKI](https://www.fox.temple.edu/about-fox/directory/yiwei-chen/)
+4. Vivek F. Farias, MIT Sloan School of Management. [WIKI](https://mitsloan.mit.edu/faculty/directory/vivek-f-farias)
 
 # Journal and Conference List
 
