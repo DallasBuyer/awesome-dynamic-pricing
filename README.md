@@ -35,6 +35,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 2. N. Bora Keskin, Duke University. [WIKI](https://people.duke.edu/~nk145/)
 3. Yiwei Chen, MIT PhD, Temple University. [WIKI](https://www.fox.temple.edu/about-fox/directory/yiwei-chen/)
 4. Vivek F. Farias, MIT Sloan School of Management. [WIKI](https://mitsloan.mit.edu/faculty/directory/vivek-f-farias)
+5. Victor F. ARAMAN, Stanford PhD, American University of Beirut. [WIKI](https://pages.stern.nyu.edu/~varaman/)
 
 # Journal and Conference List
 
