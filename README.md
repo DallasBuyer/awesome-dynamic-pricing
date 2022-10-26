@@ -9,6 +9,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 - [Journal and Conference List](#journal-and-conference-list)
 - [Blog and Tutorial List](#blog-and-tutorial-list) 
 - [Book List](#book-list)
+- [Survey List](#survey-list)
 - [Paper List](#paper-list) 
   - [Technology Perspective](#technology-perspective)
     - [Game Theory](#game-theory)
@@ -86,6 +87,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 3. An Overview of Pricing Models for Revenue Management, Manufacturing & Service Operations Management, 2003.
 4. Why Prices Need Algorithms, Stanford University, IJCAI, 2016.
 5. From Predictive to Prescriptive Analytics, Mangagement Science, 2019.
+6. Reinforcement Learning for Ridesharing: An Extended Survey. Transportation Research Part C, Lyft, 2021.
 
 # Paper List
 
