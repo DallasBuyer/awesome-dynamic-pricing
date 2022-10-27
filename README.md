@@ -69,6 +69,7 @@ Everything about intelligent pricing(dynamic pricing/algorithmic pricing) in the
 
 # Blog and Tutorial List
 1. Deep Reinforcement Learning for Supply Chain and Price Optimization, [LINK](https://blog.griddynamics.com/deep-reinforcement-learning-for-supply-chain-and-price-optimization/)
+2. Thompson Sampling of Multi-Armed Bandits, [LINK](https://towardsdatascience.com/thompson-sampling-fc28817eacb8)
 
 # Book List
 
